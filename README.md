@@ -3,8 +3,7 @@
 # 👨‍💻 Saikiran Gongle
 
 **Cybersecurity Analyst**  
-
-📱 +91 7975835535  
+  
 🌐 [LinkedIn](https://linkedin.com/in/saikiran-gongle-727751191) | [GitHub](https://github.com/saikirangongle)
 
 ---
