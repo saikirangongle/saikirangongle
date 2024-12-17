@@ -3,7 +3,7 @@
 # 👨‍💻 Saikiran Gongle
 
 **Cybersecurity Analyst**  
-📧 [gonglesaikiran5@gmail.com](mailto:gonglesaikiran5@gmail.com)  
+
 📱 +91 7975835535  
 🌐 [LinkedIn](https://linkedin.com/in/saikiran-gongle-727751191) | [GitHub](https://github.com/saikirangongle)
 
@@ -55,7 +55,7 @@ Hello! I am an **M.Tech Student specializing in Cybersecurity**, with a passion 
 
 ## 📜 Certifications
 - [**CEH v12**](https://drive.google.com/file/d/1rg9sUEJ0-61euE4SuRFww9vqzX2OPDR7/view?usp=sharing)  
-- [**Introduction to Cybersecurity** – Cisco Networking Academy}(https://www.credly.com/badges/6d6d830a-1ca9-48f7-9811-e441c1022a2c/print)  
+- [**Introduction to Cybersecurity** – Cisco Networking Academy](https://www.credly.com/badges/6d6d830a-1ca9-48f7-9811-e441c1022a2c/print)  
 - [**Networking Basics** – Cisco Networking Academy](https://www.credly.com/badges/31c0756d-bc2a-4e91-945a-2629d1cf88be/print)  
 - [**NDG Linux Unhatched** – Cisco Networking Academy](https://drive.google.com/file/d/1NZm-aF90TULWmZk67KCoaALkT_B7LrXZ/view)  
 
