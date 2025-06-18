@@ -8,7 +8,7 @@
 
 ## 🛡️ About Me
 
-Certified Ethical Hacker (CEH) with a strong interest in penetration testing and ethical hacking. Proficient in tools like Nmap, Burp Suite, Wireshark, and Metasploit.Solid understanding of network security, vulnerability assessment, and system hardening. Strong analytical and problem-solving skills with a proactive approach to learning and adapting to new threats. Eager to begin a professional career in cybersecurity, apply practical skills in real-world environments, and contribute to building secure digital systems.
+Certified Ethical Hacker (CEH) with a strong interest in penetration testing and ethical hacking. Proficient in tools like Nmap, Burp Suite, Wireshark, and Metasploit. Solid understanding of network security, vulnerability assessment, and system hardening. Strong analytical and problem-solving skills with a proactive approach to learning and adapting to new threats. Eager to begin a professional career in cybersecurity, apply practical skills in real-world environments, and contribute to building secure digital systems.
 
 
 
