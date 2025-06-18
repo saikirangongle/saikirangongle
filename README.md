@@ -8,7 +8,7 @@
 
 ## 🛡️ About Me
 
-Hello! I am an **M.Tech Student specializing in Cybersecurity**, with a passion for securing systems and networks. My goal is to continuously adapt to emerging threats, leveraging my knowledge and hands-on skills to make a meaningful impact in the ever-evolving field of cybersecurity.
+Certified Ethical Hacker (CEH) with a strong interest in penetration testing and ethical hacking. Proficient in tools like Nmap, Burp Suite, Wireshark, and Metasploit.Solid understanding of network security, vulnerability assessment, and system hardening. Strong analytical and problem-solving skills with a proactive approach to learning and adapting to new threats. Eager to begin a professional career in cybersecurity, apply practical skills in real-world environments, and contribute to building secure digital systems.
 
 
 
@@ -39,11 +39,11 @@ Hello! I am an **M.Tech Student specializing in Cybersecurity**, with a passion 
 
 ## 💡 Projects
 
-### **Automated Backup and Disaster Recovery**
+### [**Automated Backup and Disaster Recovery**](https://github.com/saikirangongle/Bacula-Configuration-file.git)
 - Implemented a backup and disaster recovery solution using **Bacula**, an open-source enterprise-level tool.  
 - Automated the backup process to ensure quick and reliable data restoration in case of disasters.
 
-### **Evil-Twin Using NodeMCU (ESP8266)**
+### [**Evil-Twin Using NodeMCU (ESP8266)**](https://github.com/saikirangongle/Evil-Twin.git)
 - Designed a rogue Wi-Fi access point mimicking legitimate networks using the **NodeMCU (ESP8266)**.  
 - Captured data from unsuspecting users, demonstrating the importance of secure Wi-Fi practices.  
 - Raised awareness about potential threats and highlighted the need for robust security measures.
