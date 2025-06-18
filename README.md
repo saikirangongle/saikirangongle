@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👨‍💻 Saikiran Gongle
 
 **Cybersecurity Analyst**  
