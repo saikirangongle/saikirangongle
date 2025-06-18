@@ -2,7 +2,7 @@
 
 **Cybersecurity Analyst**  
   
-🌐 [LinkedIn](https://linkedin.com/in/saikiran-gongle-727751191) | [GitHub](https://github.com/saikirangongle)
+<a href="https://linkedin.com/in/saikiran-gongle-727751191"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" alt="Linkedin" width="17" height="17"/> </a> [LinkedIn](https://linkedin.com/in/saikiran-gongle-727751191) | <a href="https://github.com/saikirangongle"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" width="17" height="17" /></a> [GitHub](https://github.com/saikirangongle)
 
 
 
