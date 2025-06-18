@@ -4,13 +4,13 @@
   
 🌐 [LinkedIn](https://linkedin.com/in/saikiran-gongle-727751191) | [GitHub](https://github.com/saikirangongle)
 
----
+
 
 ## 🛡️ About Me
 
 Hello! I am an **M.Tech Student specializing in Cybersecurity**, with a passion for securing systems and networks. My goal is to continuously adapt to emerging threats, leveraging my knowledge and hands-on skills to make a meaningful impact in the ever-evolving field of cybersecurity.
 
----
+
 
 ## 🛠️ Skills & Tools
 
@@ -23,7 +23,7 @@ Hello! I am an **M.Tech Student specializing in Cybersecurity**, with a passion 
 ### Programming
 - **Languages:** C, Python, R
 
----
+
 
 ## 🎓 Education
 
@@ -35,7 +35,7 @@ Hello! I am an **M.Tech Student specializing in Cybersecurity**, with a passion 
   GITAM University (2019 – 2023)  
   Bengaluru, India  
 
----
+
 
 ## 💡 Projects
 
@@ -48,7 +48,7 @@ Hello! I am an **M.Tech Student specializing in Cybersecurity**, with a passion 
 - Captured data from unsuspecting users, demonstrating the importance of secure Wi-Fi practices.  
 - Raised awareness about potential threats and highlighted the need for robust security measures.
 
----
+
 
 ## 📜 Certifications
 - [**CEH v12**](https://drive.google.com/file/d/1rg9sUEJ0-61euE4SuRFww9vqzX2OPDR7/view?usp=sharing)  
@@ -56,7 +56,7 @@ Hello! I am an **M.Tech Student specializing in Cybersecurity**, with a passion 
 - [**Networking Basics** – Cisco Networking Academy](https://www.credly.com/badges/31c0756d-bc2a-4e91-945a-2629d1cf88be/print)  
 - [**NDG Linux Unhatched** – Cisco Networking Academy](https://drive.google.com/file/d/1NZm-aF90TULWmZk67KCoaALkT_B7LrXZ/view)  
 
----
+
 
 ## 🌐 Languages
 - **English**  
@@ -64,6 +64,6 @@ Hello! I am an **M.Tech Student specializing in Cybersecurity**, with a passion 
 - **Kannada**  
 - **Telugu**
 
----
+
 
 _📌 Let's connect and work together to build a safer digital world!_
